@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sidebar-container {
+  @apply bg-white h-[76%] w-[5rem] rounded-3xl ml-6 p-4 border transition-all duration-500 border-solid relative shadow-lg
+}
